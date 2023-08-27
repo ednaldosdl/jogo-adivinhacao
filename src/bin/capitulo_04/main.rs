@@ -1,15 +1,13 @@
 //extern crate rand;
 
-use std::io;
+//use std::io;
 //use std::cmp::Ordering;
 //use rand::Rng;
 
 fn main() {
-
-  println!("Informe seu nome");
-  let mut name = String::new();
-  io::stdin().read_line(&mut name).expect("Falha ao ler a entrada.");
-
-  println!("Olá, {}!", name.trim());
-
+  //  trabalhando com os Tipos de dados: Inteiros, Ponto Flutuante e Boolean.
+  let x: u64 = 23; // pode ser usado também o "i32"
+  let f: f64 = 6.7;
+  let b: bool = true;
+  println!("O número Inteiro é: {}, O número Flutuante é: {}, O número boolean é: {}", x, f, b);
 }

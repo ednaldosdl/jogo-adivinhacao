@@ -5,11 +5,15 @@
 //use rand::Rng;
 
 fn main() {
+  //  trabalhando com as variaveis.
+  let mut name = "Edinaldo Soares";
+  name = "Luiz Otávio";
+  println!("Olá, {}!", name);
 
   let x: i32 = 50;
   println!("O valor de x é: {}", x);
   
-  let mut x = 60;
+  let x = 60;
   println!("O valor de x é: {}", x);
 
   let y = x;

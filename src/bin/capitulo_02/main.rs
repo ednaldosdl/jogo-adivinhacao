@@ -4,6 +4,7 @@ use std::cmp::Ordering;
 use rand::Rng;
 
 fn main() {
+    //  Criando o fammoso jogo de Adivinhar o Número.
     println!("Adivinhe o núemro!");
 
     let valor_secreto: u32 = rand::thread_rng().gen_range(1..101);

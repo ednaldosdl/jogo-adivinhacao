@@ -1,3 +1,4 @@
 fn main() {
-    println!("Olá, esse é o main do capitulo 01.");
+    //  Inicia com o Rust com o famoso Hello World!.
+    println!("Olá, Mundo!");
 }
