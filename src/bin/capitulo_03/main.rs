@@ -1,9 +1,3 @@
-//extern crate rand;
-
-//use std::io;
-//use std::cmp::Ordering;
-//use rand::Rng;
-
 fn main() {
   //  trabalhando com as variaveis.
   let mut name = "Edinaldo Soares";

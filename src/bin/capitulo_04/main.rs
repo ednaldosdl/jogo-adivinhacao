@@ -1,9 +1,3 @@
-//extern crate rand;
-
-//use std::io;
-//use std::cmp::Ordering;
-//use rand::Rng;
-
 fn main() {
   //  trabalhando com os Tipos de dados: Inteiros, Ponto Flutuante e Boolean.
   let x: u64 = 23; // pode ser usado também o "i32"
