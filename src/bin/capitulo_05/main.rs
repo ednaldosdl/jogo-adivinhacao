@@ -1,5 +1,5 @@
 fn main() {
-  //  Fluxo de controle
+  //  Trabalhando com o Fluxo de controle.
   let num1 = 42;
   let num2 = 42;
   if num1 > num2 {
