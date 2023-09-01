@@ -1,15 +1,22 @@
 fn main() {
-  //  Trabalhando com o Fluxo de controle.
-  let num1 = 42;
-  let num2 = 42;
-  if num1 > num2 {
-    println!("O número {} é maior que: {}", num1, num2)
-  } else if num1 == num2 {
-    println!("O número {} é igual a: {}", num1, num2)
-  } else {
-    println!("O número {} é menor que: {}", num1, num2)
-  }
+  let idade = 18;
+  println!("Sua idade é: {}", idade);
 }
+
+
+
+// fn main() {
+//   //  Trabalhando com o Fluxo de controle.
+//   let num1 = 42;
+//   let num2 = 42;
+//   if num1 > num2 {
+//     println!("O número {} é maior que: {}", num1, num2)
+//   } else if num1 == num2 {
+//     println!("O número {} é igual a: {}", num1, num2)
+//   } else {
+//     println!("O número {} é menor que: {}", num1, num2)
+//   }
+// }
 
 
 

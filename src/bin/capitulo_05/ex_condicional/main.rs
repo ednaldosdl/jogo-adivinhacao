@@ -1,4 +1,13 @@
 
+fn maior_idade() {
+  let idade = 18;
+  if idade >= 18 {
+    println!("Sua idade é: {} Você é de maior.", idade);
+  } else {
+    println!("Você é de manor: {}", idade);
+  }
+}
+
 fn numero_maior_que() {
   //  Comparar número maior que o outro.
   let number1 = 5;
@@ -57,8 +66,9 @@ fn comparar_numero_String() {
 
 fn main() {
 
-  println!("Trabalhando com operadores, condicionais e string.");
+  println!("Trabalhando com operadores, condicionais e string.\n");
 
+  maior_idade();
   numero_maior_que();
   comparar_numero();
   comparar_numero_String();
