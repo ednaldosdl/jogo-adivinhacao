@@ -11,13 +11,10 @@
   - Hello, World! em Rust.
   - Variáveis e tipos de dados básicos.  
 <br>
-- **Lista de exercícios básicos com marcadores.**
 > **Exercícios:**
->> 1. Escreva um programa Rust que imprima "Hello, World!" na tela.
->>
->> 2. Declare uma variável inteira e uma variável de ponto flutuante e atribua valores a elas.
->>
->> 3. Faça uma operação de adição entre duas variáveis inteiras e imprima o resultado.
+>>1. Escreva um programa Rust que imprima "Hello, World!" na tela.
+>>2. Declare uma variável inteira e uma variável de ponto flutuante e atribua valores a elas.
+>>3. Faça uma operação de adição entre duas variáveis inteiras e imprima o resultado.
 
 ### **Capítulo 2:**
 
@@ -27,13 +24,10 @@
   - Estruturas condicionais (if, else if, else).
   - Loops (while, for).  
 <br>
-- **Lista de exercícios básicos com marcadores.**
 > **Exercícios:**
->> 1. Escreva um programa que determine se um número é par ou ímpar usando uma estrutura condicional.
->>
->> 2. Crie um loop que imprima os números de 1 a 10 na tela.
->>
->> 3. Crie o Jogo de Adivinhação.
+>>1. Escreva um programa que determine se um número é par ou ímpar usando uma estrutura condicional.
+>>2. Crie um loop que imprima os números de 1 a 10 na tela.
+>>3. Crie o Jogo de Adivinhação.
 
 ### **Capítulo 3:**
 
@@ -44,11 +38,9 @@
   - Vetores (Arrays e Vec). 
   - Strings.  
 <br>
-- **Lista de exercícios básicos com marcadores.**
 >**Exercícios:**
->> 1. Crie um vetor de números inteiros e itere sobre ele, imprimindo cada elemento.
->>
->> 2. Crie uma string e concatene-a com outra string.
+>>1. Crie um vetor de números inteiros e itere sobre ele, imprimindo cada elemento.
+>>2. Crie uma string e concatene-a com outra string.
 
 ### **Capítulo 4:**
 
@@ -59,10 +51,8 @@
   - Definindo estruturas (structs).
   - Criando enumerações (enums).  
 <br>
-- **Lista de exercícios intermediários com marcadores.**
 >**Exercícios:**
->> 1. Crie uma struct chamada "Pessoa" com campos como nome, idade e endereço.
->>
+>>1. Crie uma struct chamada "Pessoa" com campos como nome, idade e endereço.
 >>2. Defina uma enumeração para representar os dias da semana.
 
 ### **Capítulo 5:**
@@ -74,11 +64,9 @@
   - Result e Option.
   - Tratamento de erros com match e unwrap.  
 <br>
-- **Lista de exercícios intermediários com marcadores.**
 > **Exercícios:**
->> 1. Escreva uma função que divida dois números inteiros e retorne um Result indicando o resultado ou um erro se a divisão por zero ocorrer.
->>
->> 2. Utilize o 'match' para tratar os resultados de funções que podem falhar.
+>>1. Escreva uma função que divida dois números inteiros e retorne um Result indicando o resultado ou um erro se a divisão por zero ocorrer.
+>>2. Utilize o 'match' para tratar os resultados de funções que podem falhar.
 
 ### **Capítulo 6:**
 
@@ -89,11 +77,10 @@
   - Métodos e implementações.
   - Traits e polimorfismo.  
 <br>  
-- **Lista de exercícios intermediários com marcadores.**
-> **Exercícios:**
->> 1. Crie uma struct chamada "Círculo" com métodos para calcular a área e o perímetro.
->>
->> 2. Implemente uma trait chamada "Desenho" com um método para desenhar objetos. 
+>**Exercícios:**
+>>1. Crie uma struct chamada "Círculo" com métodos para calcular a área e o perímetro.
+
+>>2. Implemente uma trait chamada "Desenho" com um método para desenhar objetos. 
 
 ### **Capítulo 7:**
 
@@ -104,11 +91,9 @@
   - Threads e paralelismo.
   - Async/await.  
 <br> 
-- **Lista de exercícios avançados com marcadores.**
-> **Exercícios:**
->> 1. Crie um programa que utilize threads para calcular a soma de elementos em um grande vetor de forma paralela.
->>
->> 2. Implemente uma função assíncrona que faça várias chamadas de rede simuladas usando async/await.
+>**Exercícios:**
+>>1. Crie um programa que utilize threads para calcular a soma de elementos em um grande vetor de forma paralela.
+>>2. Implemente uma função assíncrona que faça várias chamadas de rede simuladas usando async/await.
 
 ### **Capítulo 8:**
 
@@ -119,11 +104,9 @@
   - Ownership, Borrowing e Lifetimes.
   - Smart Pointers.  
 <br> 
-- **Lista de exercícios avançados com marcadores.**
-> **Exercícios:**
->> 1. Escreva uma função que retorne uma referência a um elemento em um vetor.
->>
->> 2. Implemente uma estrutura que use Rc (Referência Contada) para compartilhar dados entre diferentes partes do seu programa.
+>**Exercícios:**
+>>1. Escreva uma função que retorne uma referência a um elemento em um vetor.
+>>2. Implemente uma estrutura que use Rc (Referência Contada) para compartilhar dados entre diferentes partes do seu programa.
 
 ### **Capítulo 9:**
 
@@ -134,11 +117,9 @@
   - Introdução a bibliotecas populares.
   - Construção de uma aplicação usando uma biblioteca específica.  
 <br>  
-- **Lista de exercícios avançados com marcadores.**
 > **Exercícios:**
->> 1. Crie uma aplicação web simples usando o framework Rocket.
->>
->> 2. Escreva um programa que faça chamadas assíncronas de rede usando a biblioteca Tokio.
+>>1. Crie uma aplicação web simples usando o framework Rocket.
+>>2. Escreva um programa que faça chamadas assíncronas de rede usando a biblioteca Tokio.
 
 <br>
 <br> 
