@@ -66,7 +66,7 @@ fn comparar_numero_String() {
 
 fn main() {
 
-  println!("Trabalhando com operadores, condicionais e string.\n");
+  println!("\nTrabalhando com operadores, condicionais e string.\n");
 
   maior_idade();
   numero_maior_que();

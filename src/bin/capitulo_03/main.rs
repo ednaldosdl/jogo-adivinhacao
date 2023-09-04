@@ -1,19 +1,7 @@
 fn main() {
-  //  trabalhando com as variaveis.
-  let mut name = "Edinaldo Soares";
-  name = "Luiz Otávio";
-  println!("Olá, {}!", name);
-
-  let x: i32 = 50;
-  println!("O valor de x é: {}", x);
-  
-  let x = 60;
-  println!("O valor de x é: {}", x);
-
-  let y = x;
-  println!("O valor de y é: {}", y);
-  
-  const PI: f32 = 3.141592;
-  println!("O valor de PI é: {}", PI);
-
+  //  trabalhando com os Tipos de dados: Inteiros, Ponto Flutuante e Boolean.
+  let x: u64 = 23; // pode ser usado também o "i32"
+  let f: f64 = 6.7;
+  let b: bool = true;
+  println!("O número Inteiro é: {}, O número Flutuante é: {}, O número boolean é: {}", x, f, b);
 }
