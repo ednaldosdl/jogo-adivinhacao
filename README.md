@@ -148,7 +148,7 @@
 
 ### **Resumo do Estudo em Rust:**
 
-- Uma jornada abrangente pelos conceitos essenciais da linguagem Rust, começando pelo básico intermediario e avançando gradualmente para níveis mais complexos.
+- Uma jornada abrangente pelos conceitos essenciais da linguagem Rust, começando pelo básico e avançando gradualmente para níveis mais complexos.
 - A ênfase na prática foi destacada como a chave para o sucesso ao aprender Rust.
 
 ### **Dicas para o Aprendizado Contínuo:**
