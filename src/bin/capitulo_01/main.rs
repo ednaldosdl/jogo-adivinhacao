@@ -24,7 +24,7 @@ fn var_flut() {
 }
 
 fn main() {
-//  Inicia com o Rust com o famoso Hello World!.
+//  Iniciando com o famoso Hello World!.
   println!("Olá, Mundo!");
 
   var_texto();
