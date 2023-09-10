@@ -1,6 +1,6 @@
 fn var_texto() {
   //  trabalhando com as variaveis String.
-  let mut name = "Edinaldo Soares";
+  let mut name = "Emilly";
   name = "Luiz Otávio";
   println!("Olá, {}!", name);
 }
@@ -23,10 +23,15 @@ fn var_flut() {
   println!("O valor de PI é: {}", PI);
 }
 
+fn saudacoes() {
+    let  nome = "Edinlado Soares";
+    println!("Seja Bem-vindo, {}!", nome);
+}
+
 fn main() {
 //  Iniciando com o famoso Hello World!.
   println!("Olá, Mundo!");
-
+  saudacoes();
   var_texto();
   var_int();
   var_flut();
